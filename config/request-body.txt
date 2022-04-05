@@ -1,0 +1,19 @@
+-----------------------------1267546269709
+Content-Disposition: form-data; name="user_id"
+
+%s
+-----------------------------1267546269709
+Content-Disposition: form-data; name="import_file"; filename="%s"
+Content-Type: application/vnd.ms-excel
+
+%s
+
+-----------------------------1267546269709
+Content-Disposition: form-data; name="store_id"
+
+%s
+-----------------------------1267546269709
+Content-Disposition: form-data; name="submit"
+
+Submit Query
+-----------------------------1267546269709--
